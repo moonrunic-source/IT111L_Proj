@@ -33,7 +33,8 @@ namespace AgimatNgBayBayin.Assets
             Y = Math.Max(minY, Math.Min(maxY, Y));
         }
         public override void DrawPicture(Graphics g)
-        {   
+        {
+            var hurtbox = new RectangleF(X, Y, Width, Height);
             if (sprite != null)
             {
                 g.DrawImage(sprite, X, Y, Width, Height);

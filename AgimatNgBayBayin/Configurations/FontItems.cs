@@ -14,7 +14,7 @@ namespace AgimatNgBayBayin.Configurations
 
         // Fonts
         public const string GlyphFont = "Noto Sans Tagalog";
-        public const string TextFontName = "Times New Roman";
-        public const string SymbolFontName = "Segoe UI Symbol";
+        public const string TextFont = "Times New Roman";
+        public const string SymbolFont = "Segoe UI Symbol";
     }
 }

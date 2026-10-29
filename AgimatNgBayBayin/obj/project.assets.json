@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cPlusPlusProj\\GitHun\\IT111L_Restart\\AgimatNgBayBayinRun\\AgimatNgBayBayin\\AgimatNgBayBayin.csproj",
+      "projectUniqueName": "D:\\cPlusPlusProj\\GitHun\\IT111L_Restart\\AgimatNgBayBayinRun\\IT111L_Proj\\AgimatNgBayBayin\\AgimatNgBayBayin.csproj",
       "projectName": "AgimatNgBayBayin",
-      "projectPath": "D:\\cPlusPlusProj\\GitHun\\IT111L_Restart\\AgimatNgBayBayinRun\\AgimatNgBayBayin\\AgimatNgBayBayin.csproj",
+      "projectPath": "D:\\cPlusPlusProj\\GitHun\\IT111L_Restart\\AgimatNgBayBayinRun\\IT111L_Proj\\AgimatNgBayBayin\\AgimatNgBayBayin.csproj",
       "packagesPath": "C:\\Users\\aivin\\.nuget\\packages\\",
-      "outputPath": "D:\\cPlusPlusProj\\GitHun\\IT111L_Restart\\AgimatNgBayBayinRun\\AgimatNgBayBayin\\obj\\",
+      "outputPath": "D:\\cPlusPlusProj\\GitHun\\IT111L_Restart\\AgimatNgBayBayinRun\\IT111L_Proj\\AgimatNgBayBayin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
