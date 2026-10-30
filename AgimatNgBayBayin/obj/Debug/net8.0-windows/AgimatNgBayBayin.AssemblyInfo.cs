@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgimatNgBayBayin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a65dfa7e5b64251735b07ff80714c1552e1444b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+107446799cbe15324c87a52955ecdaaea13712fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgimatNgBayBayin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgimatNgBayBayin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
