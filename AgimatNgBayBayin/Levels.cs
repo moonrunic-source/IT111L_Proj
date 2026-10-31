@@ -260,8 +260,7 @@ namespace AgimatNgBayBayin
             int spot = blanks[filled];                    // the next blank
             Syllable needed = word.Syllables[spot];
 
-            // Syllable.Matches compares the Baybayin character, so syllables that
-            // share one (like E and I, or D and R) both count
+            // Syllable.Matches compares the Baybayin character, so syllables that share one (like E and I, or D and R) both count
             if (!picked.Matches(needed))
             {
                 return LoseLife();
